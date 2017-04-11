@@ -2,7 +2,7 @@
 layout: post
 title:  "Test"
 date:   2017-04-11 22:04:28 +0900
-categories: ML softmax cross-entropy gradient-descent
+categories: softmax cross-entropy gradient-descent
 ---
 
 
