@@ -1,3 +1,9 @@
+---
+layout: page
+title: Derivative of Softmax(Cross-Entroy) Cost Function
+permalink: //
+---
+
 # Derivative of Softmax,CrossEntropy Cost function
 
 
