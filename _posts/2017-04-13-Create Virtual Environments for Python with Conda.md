@@ -1,5 +1,8 @@
 ---
-
+layout: post
+title: "Create Virtual enviornments using Anaconda"
+date: 2017-04-13 09:39
+categories: Anaconda virutal_environment
 ---
 
 
