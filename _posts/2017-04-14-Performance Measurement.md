@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Performance Measurement Metrics for Classifier
-date: '`r format(Sys.time(), "%d %B, %Y")`'
 category: classifier performance
 ---
 
